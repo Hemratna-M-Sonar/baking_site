@@ -1,1 +1,1 @@
-web: gunicorn bankoftsf.wsgi --log-file -
+web: gunicorn TSF-master.wsgi --log-file -
